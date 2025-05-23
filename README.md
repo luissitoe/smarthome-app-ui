@@ -1,3 +1,3 @@
 # Smarthome App UI
 
-![](assets/screenshots/screenshot1.png)
+![](assets/screenshots/screenshot.png)
